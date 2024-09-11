@@ -23,6 +23,8 @@
 
 
 # Below are screenshots showcasing successful executions of the AWS Step Functions:
+![Screenshot (5)](https://github.com/user-attachments/assets/62bd0832-c34d-49c3-bcc2-10462512afe8)
+
 
 
 
