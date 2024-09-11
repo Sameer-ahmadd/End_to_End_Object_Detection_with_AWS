@@ -20,8 +20,6 @@
 * Web Application: Build a web app with React, Next.js, and Express to interact with the pipeline and MongoDB for data storage.
 # Project Demo
 * Explore the complete functionality of the machine learning pipeline in the Project Demo Video.
-![Demo](https://github.com/user-attachments/assets/4f130071-5c2b-4fa9-a9bd-c9d21cd20d0a)
-
 
 
 
