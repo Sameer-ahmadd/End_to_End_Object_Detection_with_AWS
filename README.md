@@ -26,11 +26,9 @@
 ![Screenshot (5)](https://github.com/user-attachments/assets/62bd0832-c34d-49c3-bcc2-10462512afe8)
 
 
-
-
 # Project Structure
-* LambdaFunctions/ - Lambda function code.
-* Object-dectection.ipynb/ - SageMaker scripts and notebooks.
+* LambdaFunctions - Lambda function code.
+* Object-dectection.ipynb - SageMaker scripts and notebooks.
 * StepFunctions - AWS Step Functions state machine definitions.
 * ECOAI/ - React, Next.js, and Express application code.
 
