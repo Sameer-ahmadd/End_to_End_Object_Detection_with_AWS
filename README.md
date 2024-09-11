@@ -21,7 +21,7 @@
 # Project Demo
 * Explore the complete functionality of the machine learning pipeline in the Project Demo Video.
 
-![03a1b366-5a2a-4c71-9960-4e47ef832740](https://github.com/user-attachments/assets/1d737a98-cf77-46aa-83e9-317185ee3b23)
+ ![03a1b366-5a2a-4c71-9960-4e47ef832740](https://github.com/user-attachments/assets/1d737a98-cf77-46aa-83e9-317185ee3b23)
 
 
 
