@@ -29,21 +29,10 @@
 
 
 # Project Structure
-aws/ - Contains AWS infrastructure as code, including CloudFormation templates or Terraform scripts.
-lambda/ - Lambda function code.
-sagemaker/ - SageMaker scripts and notebooks.
-step-functions/ - AWS Step Functions state machine definitions.
-web-app/ - React, Next.js, and Express application code.
-Prerequisites
-AWS Account
-AWS CLI configured
-Node.js and npm installed
-
+* LambdaFunctions/ - Lambda function code.
+* Object-dectection.ipynb/ - SageMaker scripts and notebooks.
+* StepFunctions - AWS Step Functions state machine definitions.
+* ECOAI/ - React, Next.js, and Express application code.
 
 # Contributing
 * Contributions are welcome! Please submit a pull request or open an issue if you have suggestions or improvements.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to adjust the links and paths according to your actual project setup!
