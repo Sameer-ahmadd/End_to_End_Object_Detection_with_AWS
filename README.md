@@ -22,7 +22,7 @@
 * Explore the complete functionality of the machine learning pipeline in the Project Demo Video.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/3aee119e-19a8-4c95-83a7-162e8d85052d" width="500" align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRwd2hxZXd0enFoOWNqNGs2ODdwMmw3a2c3eTVuejMydzN4ODk0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oDJcrJl5k4QtrmJU5j/giphy-downsized-large.gif" width="500" align="center">
 </p>
 <br />
 
