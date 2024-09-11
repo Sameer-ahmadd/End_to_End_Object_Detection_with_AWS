@@ -1,7 +1,7 @@
 
 # End to End AWS Machine Learning Pipeline for Object Detection
 
-#Overview
+# Overview
 * This project covers the development of a machine learning pipeline that incorporates data preprocessing, model training, hyperparameter tuning, and deployment, leveraging AWS services 
  to ensure scalability, security, and efficiency.
 
@@ -19,18 +19,14 @@
 * Object Detection: Implement deep learning techniques for object detection.
 * Web Application: Build a web app with React, Next.js, and Express to interact with the pipeline and MongoDB for data storage.
 # Project Demo
+* Explore the complete functionality of the machine learning pipeline in the Project Demo Video.
 
-Getting Started
-To get started with this project, follow these steps:
 
-Clone the Repository
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-Set Up the Environment
+# Below are screenshots showcasing successful executions of the AWS Step Functions:
 
-Ensure you have AWS CLI configured and necessary permissions for SageMaker, Step Functions, and Lambda. Install the required Python packages using Poetry:
 
-Project Structure
+
+# Project Structure
 aws/ - Contains AWS infrastructure as code, including CloudFormation templates or Terraform scripts.
 lambda/ - Lambda function code.
 sagemaker/ - SageMaker scripts and notebooks.
